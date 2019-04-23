@@ -1,0 +1,11 @@
+C:\Users\Xgaming\Desktop\Practica1\bin\Debug\netcoreapp2.2\Practica1.deps.json
+C:\Users\Xgaming\Desktop\Practica1\bin\Debug\netcoreapp2.2\Practica1.runtimeconfig.json
+C:\Users\Xgaming\Desktop\Practica1\bin\Debug\netcoreapp2.2\Practica1.runtimeconfig.dev.json
+C:\Users\Xgaming\Desktop\Practica1\bin\Debug\netcoreapp2.2\Practica1.dll
+C:\Users\Xgaming\Desktop\Practica1\bin\Debug\netcoreapp2.2\Practica1.pdb
+C:\Users\Xgaming\Desktop\Practica1\obj\Debug\netcoreapp2.2\Practica1.csprojAssemblyReference.cache
+C:\Users\Xgaming\Desktop\Practica1\obj\Debug\netcoreapp2.2\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Xgaming\Desktop\Practica1\obj\Debug\netcoreapp2.2\Practica1.AssemblyInfoInputs.cache
+C:\Users\Xgaming\Desktop\Practica1\obj\Debug\netcoreapp2.2\Practica1.AssemblyInfo.cs
+C:\Users\Xgaming\Desktop\Practica1\obj\Debug\netcoreapp2.2\Practica1.dll
+C:\Users\Xgaming\Desktop\Practica1\obj\Debug\netcoreapp2.2\Practica1.pdb
